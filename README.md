@@ -69,5 +69,7 @@ Uses simple navigation and flocking logic via `MonoBehaviour`. Food relocates pe
 
 ---
 📦 Descargar/Download
+📥 **Download the project build (RAR):**  
+[Download FishFlockingSim](https://github.com/FacundoJavierOlmedo/fishFlokingSim/releases/download/flooking/fishflokingsim.rar)
 
 👨‍💻  Facundo Olmedo
